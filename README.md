@@ -1,4 +1,4 @@
-<H3> Name:Revathi D K</H3>
+<H3> Name:Revathi D </H3>
 <H3>Register No:212221240045</H3>
 <H3> Experiment:1</H3>
 <H3>DATE:02.09.2024</H3>
